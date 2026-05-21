@@ -1,0 +1,16 @@
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 本地虚拟环境
+.venv/
+venv/
+env/
+
+# SQLite 数据库文件
+*.db
+*.db-journal
+
+# 环境变量及本地配置
+.env
+*.local
